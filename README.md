@@ -1,0 +1,1 @@
+这个是我用renpy写的一个galgame
