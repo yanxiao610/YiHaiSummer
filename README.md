@@ -1,4 +1,4 @@
-这个是我用renpy写的一个galgame  
+这个是我用renpy写的一个安徽建筑大学的galgame  
     起因是看到《沙湖神大人》这个自制的gal感觉挺有趣的，就去了解了下如何做gal，发现代码比较简单，花了几周时间最终写成这个低脂小游戏
     <img width="1536" height="1024" alt="YiHaiSummer" src="https://github.com/user-attachments/assets/b146d6f4-03da-4501-8cf2-2221ee3dc78e" />
     <img width="1724" height="1004" alt="start" src="https://github.com/user-attachments/assets/f4aaf34d-b000-43f0-803d-20716306601f" />
